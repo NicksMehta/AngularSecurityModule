@@ -19,7 +19,7 @@
   "dependencies": {
     "angular": "~1.3.16",
 	"lodash": "3.9.x",
-	"angular-lodash": "~0.1.2",
+	"angular-lodash": "~0.1.2"
   },
   "license": "Free",
   "ignore": [
